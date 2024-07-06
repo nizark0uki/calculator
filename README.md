@@ -3,6 +3,10 @@
 Welcome!
 This is a simple calculator application built for performing basic arithmetic operations.
 
+## Website
+
+You can use the calculator at [calculator-nizar-kouki](https://calculator-nizat-kouki.netlify.com).
+
 ## languages Used
 
 - **HTML**: For the structure of the website.
