@@ -5,7 +5,7 @@ This is a simple calculator application built for performing basic arithmetic op
 
 ## Website
 
-You can use the calculator at [calculator-nizar-kouki](https://calculator-nizat-kouki.netlify.com).
+You can use the calculator at [calculator-nizar-kouki](https://calculator-nizar-kouki.netlify.app).
 
 ## languages Used
 
